@@ -1,4 +1,4 @@
 # CODSOFT
 Data Science Projects
 
-Repository includes 3 Jupyter Notebooks
+Repository incudes 3 project files
